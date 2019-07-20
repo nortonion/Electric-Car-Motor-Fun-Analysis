@@ -1,6 +1,7 @@
 # Electric-Car-Motor-Fun-Analysis
 
 This dataset comes from this link: https://www.kaggle.com/wkirgsn/electric-motor-temperature
+
 I do not intend to make this as a formal publication, but nevertheless, I would like to credit the LEA department at Paderborn University for allowing people to use their dataset. They have asked to cite these interesting sources below:
 * https://www.researchgate.net/publication/331982128_Deep_Residual_Convolutional_and_Recurrent_Neural_Networks_for_Temperature_Estimation_in_Permanent_Magnet_Synchronous_Motors with the following code on their github: https://github.com/wkirgsn/deep-pmsm
 
